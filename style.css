@@ -63,14 +63,14 @@ body{
 
 
 .cate_week1{
-  height:25%;
+  height:22.5%;
   border-bottom: 1px solid white;
   display: flex;
   justify-content:center;
   align-items: center;
 }
 .cate_week2{
-  height:25%;
+  height:22.5%;
   display: flex;
   justify-content:center;
   align-items: center;
