@@ -77,7 +77,7 @@ body{
 }
 
 .cate_blend_box{
-  height:20%;
+  height:18%;
   border-bottom: 1px solid white;
   display: flex;
   justify-content:center;
@@ -86,7 +86,7 @@ body{
 }
 
 .cate_blend_box1{
-  height:20%;
+  height:18%;
   display: flex;
   justify-content:center;
   align-items: center;
@@ -94,7 +94,7 @@ body{
 }
 
 .cate_single{
-  height:12.5%;
+  height:10%;
   border-bottom: 1px solid white;
   display: flex;
   justify-content:center;
@@ -103,7 +103,7 @@ body{
 }
 
 .cate_single1{
-  height:12.5%;
+  height:10%;
   display: flex;
   justify-content:center;
   align-items: center;
